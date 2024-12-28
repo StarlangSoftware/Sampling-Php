@@ -1,6 +1,6 @@
 <?php
 
-namespace olcaytaner\Math;
+namespace olcaytaner\Sampling;
 
 class KFoldCrossValidation extends CrossValidation
 {

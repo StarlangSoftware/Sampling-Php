@@ -1,7 +1,6 @@
 <?php
 
-namespace olcaytaner\Math;
-
+use olcaytaner\Sampling\KFoldCrossValidation;
 use PHPUnit\Framework\TestCase;
 
 class KFoldCrossValidationTest extends TestCase

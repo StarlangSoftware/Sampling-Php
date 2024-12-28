@@ -1,7 +1,6 @@
 <?php
 
-namespace olcaytaner\Math;
-
+use olcaytaner\Sampling\StratifiedKFoldCrossValidation;
 use PHPUnit\Framework\TestCase;
 
 class StratifiedKFoldCrossValidationTest extends TestCase
